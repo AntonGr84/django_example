@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\Anton\\.virtualenvs\\week07-ShAG0Fuh\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
